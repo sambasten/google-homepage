@@ -1,0 +1,73 @@
+.center{
+
+ margin: auto;
+    width: 50%;
+    padding:70px 0px;
+}
+
+#mytext{
+	width: 550px;
+	height: 25px;
+	margin:auto;
+	font-size: 20px;
+}
+
+#twobuttons{
+	width: 250px;
+	margin: auto;
+}
+#lbutton{
+	float: left;
+}
+#rbutton{
+	float: right;
+}
+form{
+	margin: 50px 50px;
+	
+}
+#footer{
+	margin: auto;
+	width:380px;
+	font-size: 14px;
+	
+
+}
+
+ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0; 
+}
+li{
+	display:inline;
+}
+
+li a{
+	text-decoration: none;
+}
+
+li a:hover{
+
+	text-decoration: underline;
+}
+
+#gtext{
+float:left;
+}
+
+#lang{
+	float: right;
+	padding: 14px 0px;
+	
+}
+/*img{
+	position:absolute;
+	margin: auto;
+	right: 0;left: 0;top: 0;bottom: 0
+}
+/*img{
+	display: bl0pxock;
+	margin: auto;
+}
+
